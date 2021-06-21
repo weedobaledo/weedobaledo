@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadan
+- 👋 Hi, I’m @weedo
 - 👀 I’m security engineer who pretends to know a bit of Python...
 - 🌱 I try to keep practicing my coding skills here. So if anyone would like to collaborate on security automation with Python, send me a howler at nadan nath 77 at that Gmail domain
 
